@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Smille
 
-<!--
-**smillemereles/smillemereles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer
+Marketing enthusiast
 
-Here are some ideas to get you started:
+I live between code and strategy — building digital experiences that not only work… but convert 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ About me
+🌐 I build websites and web solutions
+📈 I think about users, brands, and results
+🧠 I combine tech + creativity + business
+🛠️ Tech & Tools
+
+HTML CSS JavaScript React
+WordPress SEO Ads Analytics
+
+📫 Let's connect
+
+📧 smillemereles@gmail.com
